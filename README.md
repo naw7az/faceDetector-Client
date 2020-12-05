@@ -1,11 +1,7 @@
-#### The Deployed Version of the app is [here](https://smart-brain078.herokuapp.com/).
+#### The Deployed Version of the app is [here]( https://face-detector742.herokuapp.com/).
 
-# SmartBrain 
-Final project for ZTM course
+# Face Detector - Client
 
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
-4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
-
-You can grab Clarifai API key [here](https://www.clarifai.com/)
